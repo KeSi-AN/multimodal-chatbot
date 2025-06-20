@@ -30,7 +30,7 @@ This chatbot demonstrates how conversational agents can go beyond text to interp
 |-------------------|-------------------------------------------|
 | Language          | Python                                    |
 | Frameworks        | Streamlit / Gradio                        |
-| Models            | BLIP / CLIP / GPT-4-Vision (assumed)      |
+| Models            | BLIP / CLIP / GPT-4-Vision                |
 | Libraries         | `transformers`, `torch`, `PIL`, `openai`, `gradio` |
 
 ---
